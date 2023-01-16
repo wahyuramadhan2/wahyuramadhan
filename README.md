@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 - 📫 How to reach me **wahyuramadhan9090@gmail.com**
+- 🌱 I’m currently learning **anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
