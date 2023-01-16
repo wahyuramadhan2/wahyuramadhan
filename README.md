@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mochammad Wahyu Ramadhan</h1>
-<h3 align="center">A passionate frontend developer and student from Indonesia</h3>
+<h3 align="center">A student from Indonesia</h3>
 
 
 - 📫 How to reach me **wahyuramadhan9090@gmail.com**
