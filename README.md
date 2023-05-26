@@ -7,9 +7,9 @@
 
 ## Education:
 
-#### 1. [Universitas Negeri Surabaya](https://www.ugm.ac.id) | Bachelor of Psychology | Surabaya `2022-2026`
+#### 1. [Universitas Negeri Surabaya](https://www.unesa.ac.id) | Bachelor of Psychology | Surabaya `2022-2026`
    - Member of GDSC UNESA 
- #### 2. [SMAN 21 Surabaya](https://www.sman1kebumen.sch.id) | MIPA | Surabaya `2018-2021`
+ #### 2. [SMAN 21 Surabaya](https://www.sman21surabaya.sch.id) | MIPA | Surabaya `2018-2021`
    
 ---
 
